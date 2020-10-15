@@ -19,3 +19,5 @@
 /it-swarm-\w+\.tech/
 *://*.qastack.jp/*
 *://*.coder.work/*
+*://*.qapicks.com/*
+
