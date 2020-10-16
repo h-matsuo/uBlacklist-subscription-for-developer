@@ -20,4 +20,10 @@
 *://*.qastack.jp/*
 *://*.coder.work/*
 *://*.qapicks.com/*
-
+*://*.overcoder.net/*
+*://*.coderoad.ru/*
+*://*.codeday.me/*
+*://*.src-bin.com/*
+*://*.programqa.com/*
+*://*.tutorialmore.com/*
+*://*.steakrecords.com/*
