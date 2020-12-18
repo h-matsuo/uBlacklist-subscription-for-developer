@@ -20,4 +20,5 @@
 *://*.qastack.jp/*
 *://*.coder.work/*
 *://*.qapicks.com/*
+*://python5.com/*
 
