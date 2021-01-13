@@ -21,4 +21,5 @@
 *://*.coder.work/*
 *://*.qapicks.com/*
 *://python5.com/*
+*://*.fixes.pub/*
 
