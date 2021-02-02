@@ -15,8 +15,7 @@
 *://*.codeflow.site/*
 *://*.ojit.com/*
 *://*.366service.com/*
-*://*.it-swarm.dev/*
-/it-swarm-\w+\.tech/
+/it-swarm.*/
 *://*.qastack.jp/*
 *://*.coder.work/*
 *://*.qapicks.com/*
