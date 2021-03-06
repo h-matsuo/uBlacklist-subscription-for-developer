@@ -24,3 +24,6 @@
 *://*.javaer101.com/*
 *://*.asklobster.com/*
 *://*.living-sun.com/*
+*://*.gitmemory.com/*
+*://programmerstart.com/*
+*://*.programmersought.com/*
