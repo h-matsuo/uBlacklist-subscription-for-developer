@@ -27,3 +27,4 @@
 *://*.gitmemory.com/*
 *://programmerstart.com/*
 *://*.programmersought.com/*
+*://*.bleepcoder.com/*
