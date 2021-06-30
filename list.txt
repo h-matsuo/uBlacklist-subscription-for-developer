@@ -29,4 +29,5 @@
 *://*.programmersought.com/*
 *://*.bleepcoder.com/*
 *://codehero.jp/*
+*://base64.work/so/*
 
