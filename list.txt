@@ -31,3 +31,4 @@
 *://codehero.jp/*
 *://base64.work/so/*
 *://*.awesomeopensource.com/*
+*://*.it-mure.jp.net/*
