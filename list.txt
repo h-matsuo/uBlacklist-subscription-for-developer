@@ -32,4 +32,4 @@
 *://base64.work/so/*
 *://*.awesomeopensource.com/*
 *://*.it-mure.jp.net/*
-*//try2explore.com/*
+*://try2explore.com/*
