@@ -31,3 +31,6 @@
 *://*.awesomeopensource.com/*
 *://*.it-mure.jp.net/*
 *://try2explore.com/*
+*://*.code-error.com/*
+*://*.newbedev.com/*
+*://*.geek-qa.imtqy.com/*
