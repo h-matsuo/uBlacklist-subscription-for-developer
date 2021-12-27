@@ -16,7 +16,7 @@
 *://*.ojit.com/*
 *://*.366service.com/*
 /it-swarm.*/
-*://*.qastack.jp/*
+/qastack.*/
 *://*.coder.work/*
 *://*.qapicks.com/*
 *://python5.com/*
