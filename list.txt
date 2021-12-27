@@ -17,6 +17,7 @@
 *://*.366service.com/*
 /it-swarm.*/
 /qastack.*/
+*://qa-stack.pl/*
 *://*.coder.work/*
 *://*.qapicks.com/*
 *://python5.com/*
